@@ -1,0 +1,11 @@
+.clock-container {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35pt;
+    font-weight: 600;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 50px;
+    width: 300px;
+    max-width: 300px;
+    text-align: center;
+}
